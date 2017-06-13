@@ -1,0 +1,27 @@
+[33mcommit f85b01c51c70a3975e2d16a69359edcb3a555b8e[m
+Author: Do Van Minh <dovanminhstar@gmail.com>
+Date:   Tue Jun 13 10:44:51 2017 +0700
+
+    Second commit on Github
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 2eef188..fd5e80d 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1 @@[m
+[31m-#huong dan hoc git co an[m
+[32m+[m[32m#huong dan hoc git co ban nhe![m
+
+[33mcommit 6016d2e4d6ee02eb3a48e1aa4c53e63f0d6187eb[m
+Author: Do Van Minh <dovanminhstar@gmail.com>
+Date:   Tue Jun 13 10:26:12 2017 +0700
+
+    Frist commit on Github
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2eef188[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m#huong dan hoc git co an[m
